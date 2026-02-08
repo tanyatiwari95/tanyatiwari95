@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**tanyatiwari95/tanyatiwari95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tanya 
 
-Here are some ideas to get you started:
+📊 Aspiring Data Analyst  
+💻 Working with Python, SQL & Power BI  
+📈 Passionate about turning data into meaningful insights  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Currently Learning
+- Data Cleaning with Pandas  
+- SQL for Data Analysis  
+- Data Visualization  
+
+---
+
+## 📂 Projects
+- Coming soon (building consistently)
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: (https://www.linkedin.com/in/tanya-tiwari)
